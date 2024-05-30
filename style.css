@@ -1,0 +1,57 @@
+.main_image{
+    height: 300px;
+    width: 700px;
+    background-color: #322C2B;
+    border: 2px solid black;
+    margin-left: 400px;
+    margin-top: 200px;
+    color: #EEEEEE;       
+}
+.instagram{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    margin-top: 7rem;
+    margin-right: 2.5rem;
+}
+.paragraph{
+    margin-left: 1rem;
+    font-size: 0.5rem;
+}
+.gmail{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    margin-right: 0.5rem;
+}
+.gmailpara{
+   margin-left: 0.9rem;
+   font-size: 0.5rem;
+}
+.twitter{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 1rem;
+    font-size: 1.7rem;
+    margin-right: 2.2rem;
+}
+.twitterpera{
+    margin-left: 1.1rem ;
+    font-size: 0.5rem;
+}
+.phoneno{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.4rem;
+    margin-top: 1rem;
+    margin-right:2.5rem ;
+}
+.phonopara{
+    font-size:0.5rem;
+    margin-left: 1.9rem;
+}
