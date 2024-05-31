@@ -1,11 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.main_body {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .main_image{
     height: 300px;
     width: 700px;
     background-color: #322C2B;
     border: 2px solid black;
-    margin-left: 400px;
-    margin-top: 200px;
-    color: #EEEEEE;       
+    color: #EEEEEE;  
+    display: flex;     
 }
 .instagram{
     display: flex;
@@ -54,4 +65,20 @@
 .phonopara{
     font-size:0.5rem;
     margin-left: 1.9rem;
+}
+.logo{
+    background-color: #E4C59E;
+    font-size: 4rem;
+    margin-left: 1.5rem;
+}
+.information{
+   display: inline-block;
+   margin-bottom: 7rem;
+   margin-left: 2.5rem;
+}
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
 }
