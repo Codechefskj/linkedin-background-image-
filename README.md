@@ -12,6 +12,5 @@ To use these background images for your LinkedIn profile:
 .)Clone or download the repository.
 .)Choose your desired background image from the examples provided or create your own using the HTML and CSS templates.
 .)Follow LinkedIn's instructions to upload a custom background image.
-Contributing
 .)If you’d like to contribute to this project:
-![ll background](https://github.com/Codechefskj/linkedin-background-image-/assets/143904130/c78446c1-76bb-433b-bc54-ae76e947e3f6)
+Contributing![final linkdin background](https://github.com/Codechefskj/linkedin-background-image-/assets/143904130/b65edc76-13c8-4848-b110-47dde05b91fe)
