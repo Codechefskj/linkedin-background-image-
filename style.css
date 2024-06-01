@@ -18,7 +18,7 @@ html, body {
     color: #EEEEEE;  
     display: flex;     
 }
-.instagram{
+.hackerrank{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -42,34 +42,34 @@ html, body {
    margin-left: 0.9rem;
    font-size: 0.5rem;
 }
-.twitter{
+.github{
     display: flex;
     justify-content: center;
     text-align: center;
     margin-top: 1rem;
     font-size: 1.7rem;
-    margin-right: 3rem;
+    margin-right: 3.3rem;
 }
-.twitterpara{
+.gitpara{
     margin-left: 1.1rem ;
     font-size: 0.5rem;
 }
-/* .phoneno{
+.instagram{
     display: flex;
     justify-content: center;
     text-align: center;
     font-size: 1.4rem;
     margin-top: 1rem;
-    margin-right:2.3rem ;
+    margin-right:2.3rem;
 }
-.phonopara{
+.instapara{
     font-size:0.5rem;
-    margin-left: 1.9rem;
-} */
+    margin-left: 1.3rem;
+}
 .logo{
     background-color: #E4C59E;
     font-size: 4rem;
-    margin-left: 1.5rem;
+    margin-left: 1.3rem;
 }
 .information{
    display: inline-block;
